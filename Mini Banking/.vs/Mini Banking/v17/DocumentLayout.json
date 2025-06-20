@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\K22PFP-01 VTCA\\H\u1ECDc K\u1EF3 1\\Project 1\\Developer Mini Banking\\Mini Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2F2F0-C9E3-48BB-81F2-BD7E77B8CC9E}|Mini Banking\\Mini Banking.csproj|c:\\users\\admin\\desktop\\k22pfp-01 vtca\\h\u1ECDc k\u1EF3 1\\project 1\\developer mini banking\\mini banking\\mini banking\\fsendmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2F2F0-C9E3-48BB-81F2-BD7E77B8CC9E}|Mini Banking\\Mini Banking.csproj|solutionrelative:mini banking\\fsendmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2F2F0-C9E3-48BB-81F2-BD7E77B8CC9E}|Mini Banking\\Mini Banking.csproj|c:\\users\\admin\\desktop\\k22pfp-01 vtca\\h\u1ECDc k\u1EF3 1\\project 1\\developer mini banking\\mini banking\\mini banking\\dto\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A2F2F0-C9E3-48BB-81F2-BD7E77B8CC9E}|Mini Banking\\Mini Banking.csproj|solutionrelative:mini banking\\dto\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fSendmoney.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\K22PFP-01 VTCA\\H\u1ECDc K\u1EF3 1\\Project 1\\Developer Mini Banking\\Mini Banking\\Mini Banking\\fSendmoney.cs",
+              "RelativeDocumentMoniker": "Mini Banking\\fSendmoney.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\K22PFP-01 VTCA\\H\u1ECDc K\u1EF3 1\\Project 1\\Developer Mini Banking\\Mini Banking\\Mini Banking\\fSendmoney.cs",
+              "RelativeToolTip": "Mini Banking\\fSendmoney.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAowMUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:55:12.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\K22PFP-01 VTCA\\H\u1ECDc K\u1EF3 1\\Project 1\\Developer Mini Banking\\Mini Banking\\Mini Banking\\DTO\\Transaction.cs",
+              "RelativeDocumentMoniker": "Mini Banking\\DTO\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\K22PFP-01 VTCA\\H\u1ECDc K\u1EF3 1\\Project 1\\Developer Mini Banking\\Mini Banking\\Mini Banking\\DTO\\Transaction.cs",
+              "RelativeToolTip": "Mini Banking\\DTO\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:52:48.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

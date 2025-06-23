@@ -1,4 +1,4 @@
-# MINI BANKING by PHAM MINH THAO
+# Mini Banking Solution by Pham Minh Thao (version 1 - 2022)
 
 ## Introduction
 
